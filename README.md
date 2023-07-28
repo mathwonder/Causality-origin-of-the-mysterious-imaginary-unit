@@ -1,5 +1,5 @@
 👋 Hi, I’m Qiujiang Lu (also named Q.J. Lu), Ph.D., the author of the paper: <br>
-<h2>"Deriving the imaginary unit and Euler's formula from first principles, and discovering the existence of rotation factor set"</h2>
+<h2>Deriving the imaginary unit and Euler's formula from first principles, and discovering the existence of rotation factor set</h2>
 
 <h4>Abstract</h4>
 <p>
