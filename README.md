@@ -3,7 +3,7 @@
 
 👀 I’m interested in physics, mathematics, software, and their research and multidisciplinary applications
 🌱 I’m currently working on mathematics and multidisciplinary applications
-📫 How to reach me: via email to: qlu@mathwonder.com
+📫 How to reach me: via email to: qlu at mathwonder . org
 
 <!---
 mathwonder/mathwonder is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
